@@ -214,7 +214,4 @@ This project helped in understanding:
 
 **Prabuddha Pal**
 
-- Java Backend Developer
-- Spring Boot Enthusiast
-- PostgreSQL | Hibernate | REST APIs
-- Competitive Programmer (Codeforces • CodeChef • AtCoder)
+
